@@ -14,7 +14,7 @@ A simple demonstration to apply c# patches to AV1 via [Harmony](https://harmony.
 
 ## Usage
 - Locate your own compiled files inside the project folder or the prebuilt ones in the bin folder
-- Put the AV1Patcher.py, Bootloader.dll, Patcher.dll, agent.js files into the AV1 game folder
+- Put the AV1Patcher.py, Bootloader.dll, Patcher.dll, agent.js, steam_appid.txt files into the AV1 game folder
 - Start your AV1
 - Execute the python file 
 
